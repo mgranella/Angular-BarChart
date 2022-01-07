@@ -1,0 +1,10 @@
+The problem to solve includes the following:
+
+- Create a webserver with a single API endpoint. (DONE!)
+- This API endpoint will consume a web service we will provide credentials for and return its data. (DONE!)
+- Create a sample Angular application that makes a request to the API and displays the data in different ways.
+
+We will give you a template for the Angular application during the challenge, but for the API, you may have a template ready with whatever language and framework you feel more confident with.
+
+
+https://www.eia.gov/opendata/qb.php?category=241335&sdid=PET.RWTC.D

@@ -1,0 +1,14 @@
+{
+    "bookid": 84,
+    "reviews":
+    [
+        {
+            "clientEmail": "mariano.granella@gmail.com",
+            "review": "this book is not for me"
+        },
+        {
+            "clientEmail": "gi.gom@gmail.com",
+            "review": "this book is great"
+        }        
+    ]
+}
